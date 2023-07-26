@@ -1,6 +1,8 @@
 # 图书管理系统（Book Management System, Created by SpringBoot framework）
 
-初版2020.03.01
+项目开始2020.03.01
+
+项目结束2021.02.01
 
 -------------练习项目--------------
 
