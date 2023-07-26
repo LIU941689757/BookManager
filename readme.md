@@ -3,13 +3,12 @@
 初版2020.03.01
 
 --------------练习---------------
+
 前后端分离的图书管理系统项目。
 
 后端使用Java+SpringBoot+MyBatis+MySQL
 
 前端使用Vue+Axios+Element UI
-
-
 
 ## 环境
 
