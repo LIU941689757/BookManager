@@ -24,8 +24,7 @@
 | node版本    | Node16                                |
 
 项目成员
-后端 LIU YUXI
-     LIU BOWEN
+后端 LIU YUXI ， LIU BOWEN
     
 前端 MU TONG
 
