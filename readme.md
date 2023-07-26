@@ -24,7 +24,8 @@
 | 构建工具  | Maven 3.3.9                              |
 | Web服务器 | SpringBoot的Tomcat                   |
 | 数据库    | MySQL 8.0.19                                |
-
+| 前端框架    | VUE.js                                |
+| node版本    | Node16                                |
 
 ##备注
 
