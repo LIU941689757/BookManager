@@ -1,4 +1,4 @@
-# 图书管理系统接口程序（Book Management System, Created by SpringBoot framework）
+# 图书管理系统（Book Management System, Created by SpringBoot framework）
 
 初版2020.03.01
 
