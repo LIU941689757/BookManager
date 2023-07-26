@@ -23,7 +23,8 @@
 | 前端框架    | VUE.js                                |
 | node版本    | Node16                                |
 
-项目成员
+##项目成员
+
 后端 LIU YUXI ， LIU BOWEN
     
 前端 MU TONG
